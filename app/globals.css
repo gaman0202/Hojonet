@@ -1,0 +1,201 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  
+  /* Color Palette - Gray */
+  --color-gray-900: #101828;
+  --color-gray-700: #4A5565;
+  --color-gray-500: #99A1AF;
+  --color-gray-300: #D1D5DC;
+  --color-gray-100: #F3F4F6;
+  --color-gray-50: #F9FAFB;
+  
+  /* Color Palette - Blue */
+  --color-blue-600: #155DFC;
+  --color-blue-100: #DBEAFE;
+  
+  /* Color Palette - Purple */
+  --color-purple-600: #9810FA;
+  --color-purple-100: #F3E8FF;
+  
+  /* Color Palette - Green */
+  --color-green-600: #00B900;
+  --color-green-100: #DCFCE7;
+  
+  /* Color Palette - Orange */
+  --color-orange-600: #F54900;
+  --color-orange-100: #FFEDD4;
+  
+  /* Color Palette - Red */
+  --color-red-600: #E7000B;
+  --color-red-100: #FFE2E2;
+  
+  /* Semantic Colors */
+  --color-primary: var(--color-blue-600);
+  --color-primary-light: var(--color-blue-100);
+  --color-text-primary: var(--color-gray-900);
+  --color-text-secondary: var(--color-gray-700);
+  --color-text-tertiary: var(--color-gray-500);
+  --color-border: var(--color-gray-300);
+  --color-background: var(--color-gray-50);
+  --color-surface: #ffffff;
+  
+  /* Typography - Font Family */
+  --font-family-base: "Noto Sans JP", "Noto Sans CJK JP", sans-serif;
+  --font-family-logo: "Inter", sans-serif;
+  
+  /* Typography - Title */
+  --font-title-size: 24px;
+  --font-title-line-height: 32px;
+  --font-title-letter-spacing: 0.07px;
+  --font-title-weight: 400;
+  
+  /* Typography - Text */
+  --font-text-size: 16px;
+  --font-text-line-height: 24px;
+  --font-text-letter-spacing: -0.3125px;
+  --font-text-weight: 400;
+  
+  /* Typography - Label */
+  --font-label-size: 14px;
+  --font-label-line-height: 20px;
+  --font-label-letter-spacing: -0.15px;
+  --font-label-weight: 400;
+  
+  /* Design Tokens - Shadows */
+  --shadow-card: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 8px 10px -6px rgba(0, 0, 0, 0.1);
+  --shadow-focus: 0 0 0 2px rgba(21, 93, 252, 0.2);
+  
+  /* Design Tokens - Gradients */
+  --gradient-background: linear-gradient(135deg, #EFF6FF 0%, #FFFFFF 50%, #FAF5FF 100%);
+  
+  /* Design Tokens - Interactive States */
+  --color-primary-hover: #0f4bc7;
+  --color-primary-active: #0d3fa3;
+  --color-line-hover: #05b048;
+  
+  /* Design Tokens - Text Colors */
+  --color-placeholder: rgba(16, 24, 40, 0.5);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-family-base);
+}
+
+/* Typography Classes */
+.text-title {
+  font-family: var(--font-family-base);
+  font-size: var(--font-title-size);
+  line-height: var(--font-title-line-height);
+  letter-spacing: var(--font-title-letter-spacing);
+  font-weight: var(--font-title-weight);
+  color: var(--color-text-primary);
+}
+
+.text-body {
+  font-family: var(--font-family-base);
+  font-size: var(--font-text-size);
+  line-height: var(--font-text-line-height);
+  letter-spacing: var(--font-text-letter-spacing);
+  font-weight: var(--font-text-weight);
+  color: var(--color-text-primary);
+}
+
+.text-label {
+  font-family: var(--font-family-base);
+  font-size: var(--font-label-size);
+  line-height: var(--font-label-line-height);
+  letter-spacing: var(--font-label-letter-spacing);
+  font-weight: var(--font-label-weight);
+  color: var(--color-text-secondary);
+}
+
+/* Form Input Classes */
+.form-input {
+  width: 100%;
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3125px;
+  color: #101828;
+  background-color: white;
+  border: 1px solid #D1D5DC;
+  border-radius: 10px;
+}
+
+.form-input:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #9810FA;
+  border-color: transparent;
+  color: #0A0A0A;
+}
+
+.form-input::placeholder {
+  color: #99A1AF;
+}
+
+.form-select {
+  width: 100%;
+  height: 43px;
+  padding: 8px 12px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.3125px;
+  background-color: white;
+  border: 1px solid #D1D5DC;
+  border-radius: 10px;
+  appearance: none;
+}
+
+.form-select:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #9810FA;
+  border-color: transparent;
+}
+
+.form-textarea {
+  width: 100%;
+  height: 118px;
+  padding: 10px 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.3125px;
+  color: #101828;
+  background-color: white;
+  border: 1px solid #D1D5DC;
+  border-radius: 10px;
+  resize: none;
+}
+
+.form-textarea:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #9810FA;
+  border-color: transparent;
+  color: #101828;
+}
+
+.form-textarea::placeholder {
+  color: #99A1AF;
+}

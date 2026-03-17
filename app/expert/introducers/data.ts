@@ -1,0 +1,111 @@
+import { Introducer } from './types';
+
+export const totalIntroducers = 24;
+
+export const introducers: Introducer[] = [
+  {
+    id: '1',
+    name: '田中太郎',
+    nameInitial: '田',
+    email: 'tanaka@tech-innovation.co.jp',
+    phone: '03-1234-5678',
+    industry: 'IT・テクノロジー',
+    companyName: '株式会社ABC',
+    location: '東京都',
+    referredCustomers: [
+      { id: 'c1', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c2', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c3', name: '田中太郎', email: 'tanaka@office-example.jp' },
+    ],
+    othersCount: 5,
+  },
+  {
+    id: '2',
+    name: '鈴木花子',
+    nameInitial: '鈴',
+    email: 'suzuki@suzuki-shop.jp',
+    phone: '06-9876-5432',
+    industry: '小売業',
+    companyName: '株式会社XYZ',
+    location: '大阪府',
+    referredCustomers: [
+      { id: 'c1', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c2', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c3', name: '田中太郎', email: 'tanaka@office-example.jp' },
+    ],
+    othersCount: 5,
+  },
+  {
+    id: '3',
+    name: '佐々木一郎',
+    nameInitial: '佐',
+    email: 'sasaki@sasaki-factory.co.jp',
+    phone: '052-1111-2222',
+    industry: '製造業',
+    companyName: '株式会社DEF',
+    location: '愛知県',
+    referredCustomers: [
+      { id: 'c1', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c2', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c3', name: '田中太郎', email: 'tanaka@office-example.jp' },
+    ],
+    othersCount: 5,
+  },
+  {
+    id: '4',
+    name: '高橋美咲',
+    nameInitial: '高',
+    email: 'takahashi@design-office.jp',
+    phone: '03-2222-3333',
+    industry: 'デザイン',
+    companyName: '株式会社GHI',
+    location: '東京都',
+    referredCustomers: [
+      { id: 'c1', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c2', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c3', name: '田中太郎', email: 'tanaka@office-example.jp' },
+    ],
+    othersCount: 5,
+  },
+  {
+    id: '5',
+    name: '伊藤健一',
+    nameInitial: '伊',
+    email: 'ito@service.co.jp',
+    phone: '03-1234-5678',
+    industry: 'サービス業',
+    companyName: '株式会社JKL',
+    location: '東京都',
+    referredCustomers: [
+      { id: 'c1', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c2', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c3', name: '田中太郎', email: 'tanaka@office-example.jp' },
+    ],
+    othersCount: 5,
+  },
+  {
+    id: '6',
+    name: '伊藤健二',
+    nameInitial: '伊',
+    email: 'ito@service.co.jp',
+    phone: '03-1234-5678',
+    industry: 'サービス業',
+    companyName: '株式会社MNO',
+    location: '東京都',
+    referredCustomers: [
+      { id: 'c1', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c2', name: '田中太郎', email: 'tanaka@office-example.jp' },
+      { id: 'c3', name: '田中太郎', email: 'tanaka@office-example.jp' },
+    ],
+    othersCount: 5,
+  },
+];
+
+export const industryOptions = [
+  '全業種',
+  'IT・テクノロジー',
+  '小売業',
+  '製造業',
+  'デザイン',
+  'サービス業',
+];

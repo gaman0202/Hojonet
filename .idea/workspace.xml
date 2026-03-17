@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af2c227c-7aae-4ae1-b07b-67d997cc9559" name="Changes" comment="ユーザープロフィール変更対応">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="9d6eaccf-51ff-48ab-961f-730688ac82bc" name="zignore" comment="zignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hinoko58&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="formerge" />
+                    <option name="lastUsedInstant" value="1769234581" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1769233629" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1769233564" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:hinoko58/hojonet.git&quot;,
+    &quot;accountId&quot;: &quot;cf89d5b4-216d-4b77-8c98-68b4bf26d422&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="5" changelist="9d6eaccf-51ff-48ab-961f-730688ac82bc" />
+        <range start1="3" end1="4" start2="6" end2="14" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="8" end1="8" start2="18" end2="21" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="10" end1="10" start2="23" end2="28" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="11" end1="11" start2="29" end2="93" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="15" end1="18" start2="97" end2="103" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="30" end1="30" start2="115" end2="121" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="31" end1="31" start2="122" end2="125" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="32" end1="32" start2="126" end2="128" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="35" end1="35" start2="131" end2="154" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="44" end1="44" start2="163" end2="180" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="45" end1="45" start2="181" end2="214" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+        <range start1="46" end1="46" start2="215" end2="253" changelist="af2c227c-7aae-4ae1-b07b-67d997cc9559" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="37F8t3HkIH9dn4HScZ5744hCTXq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Tab-separated (TSV)_id",
+    "database.data.extractors.current.id": "Tab-separated (TSV)_id",
+    "git-widget-placeholder": "formerge",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "/Users/hinoko/proto/hojonet/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af2c227c-7aae-4ae1-b07b-67d997cc9559" name="Changes" comment="" />
+      <created>1766487673888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766487673888</updated>
+      <workItem from="1766487676746" duration="7000" />
+      <workItem from="1768969782801" duration="34266000" />
+    </task>
+    <task id="LOCAL-00001" summary="会員登録(ログインなど全部対応)2">
+      <option name="closed" value="true" />
+      <created>1768468295827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768468295827</updated>
+    </task>
+    <task id="LOCAL-00002" summary="会員登録(customer)時にprofilesにデータ入れる">
+      <option name="closed" value="true" />
+      <created>1768900179214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768900179214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="会員登録(customer,expert,admin)登録、customer profiles修正">
+      <option name="closed" value="true" />
+      <created>1769069964302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769069964302</updated>
+    </task>
+    <task id="LOCAL-00004" summary="会員登録(customer,expert,admin)登録、customer profiles修正">
+      <option name="closed" value="true" />
+      <created>1769070301488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769070301488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="build error 対応">
+      <option name="closed" value="true" />
+      <created>1769070744300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769070744300</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ユーザープロフィール変更対応">
+      <option name="closed" value="true" />
+      <created>1769131987423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769131987423</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="会員登録(ログインなど全部対応)2" />
+    <MESSAGE value="会員登録(customer)時にprofilesにデータ入れる" />
+    <MESSAGE value="会員登録(customer,expert,admin)登録、customer profiles修正" />
+    <MESSAGE value="build error 対応" />
+    <MESSAGE value="ユーザープロフィール変更対応" />
+    <option name="LAST_COMMIT_MESSAGE" value="ユーザープロフィール変更対応" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

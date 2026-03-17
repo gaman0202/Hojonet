@@ -1,0 +1,40 @@
+<div id="avWBGd-23"><h2>Confirm your signup</h2>
+
+<p>Follow this link to confirm your user:</p>
+<p><a href="https://gvmuehwyhybwwaxbtydb.supabase.co/auth/v1/verify?token=3f7c4bcc7f8881a40bf473905f961559b7e9418663e283e5d0af5780&amp;type=signup&amp;redirect_to=http://localhost:3000/welcome" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://gvmuehwyhybwwaxbtydb.supabase.co/auth/v1/verify?token%3D3f7c4bcc7f8881a40bf473905f961559b7e9418663e283e5d0af5780%26type%3Dsignup%26redirect_to%3Dhttp://localhost:3000/welcome&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw3qIL2YGKfbuY5S9lz6Kc2K">Confirm your mail</a></p>
+
+
+<p><a href="http://77370554" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://77370554&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw28_-QbwGmZP2CF_ig4OF38">token 77370554</a></p>
+<p><a href="http://3f7c4bcc7f8881a40bf473905f961559b7e9418663e283e5d0af5780" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://3f7c4bcc7f8881a40bf473905f961559b7e9418663e283e5d0af5780&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw0mvd1efzvkWkoM5a0lRGaT">tokenHash 3f7c4bcc7f8881a40bf473905f9615<wbr>59b7e9418663e283e5d0af5780</a></p>
+<p><a href="http://localhost:3000" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://localhost:3000&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw2-aY5Uwba15Bkxjj3pivKT">SiteURL http://localhost:3000</a></p>
+<p><a href="http://hinoko58@gmail.com" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://hinoko58@gmail.com&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw256GPNZg3SD_Kie-cPWLvE">SiteURL hinoko58@gmail.com</a></p>
+<p><a href="#m_2125222495158552027_ZgotmplZ">Date map[email:hinoko58@gmail.com email_verified:false phone_verified:false sub:79c7e9e6-09f7-4ce2-bd21-<wbr>ce77694312bb]</a></p>
+<p><a href="http://localhost:3000/welcome" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://localhost:3000/welcome&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw3QYExAdIzmRTq1WbpPHxew">RedirectTo http://localhost:3000/welcome</a></p>
+
+
+  <div style="width:100%;margin:32px 0;padding:0;font-family:Arial,sans-serif;font-size:14px;color:#333333;word-break:break-word">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+      <tbody><tr>
+        <td align="center" style="padding:20px">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+            
+  <tbody><tr>
+    <td align="center" style="padding-bottom:16px;font-size:14px;color:#666666">
+      You're receiving this email because you signed up for an application
+
+      <a href="https://supabase.com/?utm_source=auth-email&amp;utm_medium=email&amp;utm_campaign=powered-by-supabase" style="color:#666666;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://supabase.com/?utm_source%3Dauth-email%26utm_medium%3Demail%26utm_campaign%3Dpowered-by-supabase&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw39pOElWnquD_MY21o_MUXp">
+  powered by Supabase
+      </a><img data-emoji="⚡" class="an1" alt="⚡" aria-label="⚡" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/16.0/26a1/72.png" loading="lazy">️
+    </td>
+  </tr>
+            <tr>
+              <td align="center" style="font-size:12px;color:#666666">
+                <a href="https://supabase.com/opt-out/gvmuehwyhybwwaxbtydb" style="color:#666666;text-decoration:underline" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://supabase.com/opt-out/gvmuehwyhybwwaxbtydb&amp;source=gmail&amp;ust=1766050799689000&amp;usg=AOvVaw22O4LUiZZ2xiqPjhxFNwiF">Opt out of these emails</a>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </tbody></table><div class="yj6qo"></div><div class="adL">
+  </div></div><div class="adL">
+</div></div>
